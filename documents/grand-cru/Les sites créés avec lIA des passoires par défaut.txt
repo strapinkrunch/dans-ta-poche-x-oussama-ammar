@@ -1,0 +1,3 @@
+VIDÉO : Les sites créés avec l'IA des passoires par défaut ？
+
+Que penses-tu de la sécurité des sites cré avec Lia ? C'est safe ou c'est des passoirs par défaut ? C'est des passoirs par défaut, mais si tu as le bon système d'orchestration de prompt et que tu passes les bons promptes de sécurité avec les bons modèles, tu as des améliorations immenses en sécurité et toutes les IA sont conscientes de ça et elles sont en train de faire d'immenses progrès là-dessus. Je ne vois pas pourquoi un humain serait meilleur à la sécurité informatique qu'une IIA qui peut réellement tout tester. Je ne comprends pas d'où ça vient cette idée de tous ces développeurs arrogants qui passent leur temps à nous expliquer qu'en fait les codes de F sécurisé, c'est de la connerie. Yeah.
